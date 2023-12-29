@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "sqlite1": {
+      "secretStore": "LocalSecretsFile",
+      "type": "sqlite.local",
+      "connectionId": "ConnectionStrings:C::Users:Thiago:ws-studio:crud_balta:app.db",
+      "dynamicId": null
+    }
+  }
+}
